@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="500px" src="../img/koa_finder/coral.jpg" class="img-thumbnail" >
+image: img/koa_finder/coral.jpg
 title: "Ko'a Finder"
 date: 2023
 published: true
