@@ -11,7 +11,7 @@ labels:
   - Artificial Intelligence
   - Environmental Protection
   - Hackathon
-summary: "My team developed a machine learning and AI based tool that takes images of coral and translates them into quantitative data about the coral's health."
+summary: "My team developed a machine learning and AI based tool that takes images of coral and translates them into quantitative data about the coral's health that coral cultivating organizations can use to monitor their work and better guide their conservation efforts and practices."
 ---
 
 <div class="text-center p-4">
@@ -27,7 +27,7 @@ Beyond the event, ongoing support and connections facilitate the implementation 
 
 [Description via the Build4Good Event Page](https://purplemaia.org/event/build4good/)<br><br>
 
-For this project, I was the lead Python programmer responsible for getting the quantitative data from uploaded coral images. Researching and utilizing the OpenCV package and the K-means clustering algorithm, the program takes an image, finds the most dominant colors in the image, and returns the data as a pie chart which dislays the colors found in the image and their approximate frequency.
+For this project, I was the lead Python programmer responsible for getting the quantitative data from uploaded coral images. Researching and utilizing the OpenCV package and the K-means clustering algorithm, I wrote a program that takes an image, finds the most dominant colors in the image, and returns the data as a pie chart which dislays the colors found in the image and their approximate frequency.
 Additionally, I also wrote code to analyze an image and highlight corals in the image that match a chosen coral color selected from a standard set of colors established by the [Hawaiian Ko'a Card](https://coralwatch.org/wp-content/uploads/2023/11/2020_Bahr-etal-The-Hawaiian-Ko%CA%BBa-Card-coral-health-and-bleaching-assessment-tool.pdf).<br><br>
 
 
