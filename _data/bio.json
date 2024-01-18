@@ -31,7 +31,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "g++", "Unix" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "gcc/g++", "Unix", "Excel" ]
     }
   ],
   "education": [
@@ -47,69 +47,65 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Plant Science Lab",
+      "position": "Lab Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-12-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assists with daily operations and provides computer science consulting",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Completes a variety of tasks required including: genomic work, plant tissue culture, caring for the greenhouses, R programming, and assistance with software"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Loyola University Chicago",
+      "position": "Summer Research Intern",
+      "website": "https://ssom.luc.edu/luerec/administrative/laud/",
+      "startDate": "2023-06-01",
+      "endDate": "2023-07-26",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed a bioinformatics strategy for NIH-funded project: A Microbial Model for the Formation of Calcium Oxalate and Calcium Phosphate Stones",
+        "Learned and completed bioinformatics work including: R programming, Excel, general research, genomic assembly and annotation"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Purple Mai'a Build4Good Machine Learning and AI Hackathon",
+      "date": "December 2023",
+      "awarder": "Purple Mai'a",
+      "summary": "My team created a ML/AI based project that translates images of coral to quantitative data about that coral health. See my portfolio for more details."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2022 - Current",
+      "awarder": "University of Hawaii",
+      "summary": "Dean's List is awarded to fulltime students who maintain a 3.5 or higher GPA."
     }
   ],
   "references": [
