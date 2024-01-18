@@ -31,10 +31,10 @@ For this project, I was the lead Python programmer responsible for getting the q
 Additionally, I also wrote code to analyze an image and highlight corals in the image that match a chosen coral color selected from a standard set of colors established by the [Hawaiian Ko'a Card](https://coralwatch.org/wp-content/uploads/2023/11/2020_Bahr-etal-The-Hawaiian-Ko%CA%BBa-Card-coral-health-and-bleaching-assessment-tool.pdf).<br><br>
 
 
-[Learn more about Purple Mai'a](https://purplemaia.org/about/)<br>
-[See Final Presentation Here](https://docs.google.com/presentation/d/1dKP6ula-J-_ap4F8JT8bMd7L-gqq9FQ46dloCljvQjo/edit?usp=sharing)
+[Learn more about Purple Mai'a](https://purplemaia.org/about/)<br><br>
+[Check out our final presentation](https://docs.google.com/presentation/d/1dKP6ula-J-_ap4F8JT8bMd7L-gqq9FQ46dloCljvQjo/edit?usp=sharing)
 
-Mahalo nui loa to all of the following:
-Purple Mai'a
-The Ko'a Kollective Team
-Honolulu Star Advertiser
+Mahalo nui loa to all of the following:<br>
+Purple Mai'a<br>
+The Ko'a Kollective Team<br>
+Honolulu Star Advertiser<br>
