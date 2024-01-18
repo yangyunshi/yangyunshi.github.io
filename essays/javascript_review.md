@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 
-## *"Java and Javascript are similar like car and carpet." --My Friend Krishna* <br><br>
+## *"Java and Javascript are similar like car and carpet." --My Friend Krishna* <br>
 
 ## I Might Need To Get A New New Year’s Resolution Already
 
