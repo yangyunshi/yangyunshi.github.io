@@ -9,9 +9,9 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> <br>
+<img width="200px" class="rounded float-start pe-4" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 
-## *"Java and Javascript are similar like car and carpet." --My Friend Krishna* <br><br><br>
+## *"Java and Javascript are similar like car and carpet." --My Friend Krishna* <br><br>
 
 ## I Might Need To Get A New New Year’s Resolution Already
 
