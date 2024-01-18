@@ -18,9 +18,11 @@
   "interests": [
     { "name": "Bioinformatics" },
     { "name": "Biotechnology" },
+    { "name": "Medicine" },
     { "name": "One Health" },
     { "name": "Social Impact" },
     { "name": "Sustainability" },
+    { "name": "Ethnobotany" },
     { "name": "Data Science" }
   ],
   "skills": [
