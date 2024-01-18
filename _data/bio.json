@@ -6,7 +6,7 @@
     "email": "aebsen@hawaii.edu",
     "phone": "",
     "website": "https://yangyunshi.github.io",
-    "summary": "Current Undergraduate Computer Science Student Pursuing a BS Degree in Computer Science",
+    "summary": "Current Undergraduate Student Pursuing a BS Degree in Computer Science | Expected to Graduate Spring 2026 | Aspiring to Use Tech for Positive Impact",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "yangyunshi", "url": "https://github.com/yangyunshi" },
@@ -27,7 +27,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "R", "HTML/CSS", "Python" ]
+      "keywords": [ "C", "Java", "Javascript", "R", "HTML/CSS", "Python" ]
     },
     {
       "name": "Toolsets/OS",
