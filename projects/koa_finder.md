@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/koa_finder/healthy_coral_colors.jpg
 title: "Ko'a Finder"
 date: 2023
 published: true
@@ -9,32 +9,32 @@ labels:
   - Python
   - Machine Learning
   - Artificial Intelligence
+  - Environmental Protection
   - Hackathon
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "My team developed a machine learning and AI based tool that takes images of coral and translates them into quantitative data about the coral's health."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/koa_finder/koa_card_comparison.png" class="img-thumbnail" >
+  <img width="200px" src="../img/koa_finder/bleached_coral_colors.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/koa_finder/healthy_coral_colors.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/koa_finder/build4good_speaker.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/koa_finder/IMG_7910.jpeg" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+"The Build4Good Hackathon spans three dynamic days of innovation and collaboration. It commences with an inspiring kickoff, where participants gather to explore challenges in our focus areas. Teams form, ideas are honed, and development plans take shape. The second day is a deep dive into coding, modeling, and mentor-guided progress, with concurrent workshops enriching participants’ technical skills. On the final day, teams present their solutions to a panel of expert judges, focusing on innovation, societal impact, and technical excellence.
+Beyond the event, ongoing support and connections facilitate the implementation of solutions, fostering a lasting community committed to deploying AI and ML for meaningful social change. Throughout, inclusivity, diversity, and participant well-being remain paramount, ensuring a welcoming environment for all contributors."<br>
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+[Description via the Build4Good Event Page](https://purplemaia.org/event/build4good/)<br><br>
 
-Here is some code that illustrates how we read values from the line sensors:
+For this project, I was the lead Python programmer responsible for getting the quantitative data from uploaded coral images. Researching and utilizing the OpenCV package and the K-means clustering algorithm, the program takes an image, finds the most dominant colors in the image, and returns the data as a pie chart which dislays the colors found in the image and their approximate frequency.
+Additionally, I also wrote code to analyze an image and highlight corals in the image that match a chosen coral color selected from a standard set of colors established by the [Hawaiian Ko'a Card](https://coralwatch.org/wp-content/uploads/2023/11/2020_Bahr-etal-The-Hawaiian-Ko%CA%BBa-Card-coral-health-and-bleaching-assessment-tool.pdf).<br><br>
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+[Learn more about Purple Mai'a](https://purplemaia.org/about/)<br>
+[See Final Presentation Here](https://docs.google.com/presentation/d/1dKP6ula-J-_ap4F8JT8bMd7L-gqq9FQ46dloCljvQjo/edit?usp=sharing)
+
+Mahalo nui loa to all of the following:
+Purple Mai'a
+The Ko'a Kollective Team
+Honolulu Star Advertiser
