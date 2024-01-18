@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/koa_finder/healthy_coral_colors.jpg
+image: img/koa_finder/coral.jpg
 title: "Ko'a Finder"
 date: 2023
 published: true
