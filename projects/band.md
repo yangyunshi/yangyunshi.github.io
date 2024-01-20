@@ -18,11 +18,11 @@ summary: "I have played trombone and bassoon in multiple ensembles for over a de
 
 Over the course of the past decade or so, I have been blessed to be a member of numerous performance groups, and I have played a variety of band literature spanning across many genres.
 
-I have played in:
-Concert/Symphonic/Wind Ensembles (Trombone and Bassoon)
-Concert/Symphonic Orchestras (Trombone)
-Pep Bands (Trombone)
-Pit Orchestras for *Rodger's and Hammerstein's Cinderella* and *The Sound of Music* (Trombone and Bassoon)
+I have played in:<br>
+Concert/Symphonic/Wind Ensembles (Trombone and Bassoon)<br>
+Concert/Symphonic Orchestras (Trombone)<br>
+Pep Bands (Trombone)<br>
+Pit Orchestras for *Rodger's and Hammerstein's Cinderella* and *The Sound of Music* (Trombone and Bassoon)<br>
 International Southern Winds Tour Group across Europe<br><br>
 
 As of now, I am currently involved in the [University of Hawaii Marching Band](https://uhbands.org/athleticbands/), the University of Hawaii Pep Band, and (if I have time in my academic schedule) the University of Hawaii Concert Ensembles.<br>
