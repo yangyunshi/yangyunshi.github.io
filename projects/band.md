@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/band/trombone_resized.jpeg
 title: "Trombonist and Bassoonist"
-date: 2008-Current
+date: 2008 - Current
 published: true
 labels:
   - Trombone
