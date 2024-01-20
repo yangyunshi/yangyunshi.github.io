@@ -23,7 +23,7 @@ Concert/Symphonic/Wind Ensembles (Trombone and Bassoon)<br>
 Concert/Symphonic Orchestras (Trombone)<br>
 Pep Bands (Trombone)<br>
 Pit Orchestras for *Rodger's and Hammerstein's Cinderella* and *The Sound of Music* (Trombone and Bassoon)<br>
-International Southern Winds Tour Group across Europe<br><br>
+International Southern Winds Tour Group across Europe (Trombone)<br><br>
 
 As of now, I am currently involved in the [University of Hawaii Marching Band](https://uhbands.org/athleticbands/), the University of Hawaii Pep Band, and (if I have time in my academic schedule) the University of Hawaii Concert Ensembles.<br>
 The UH Band Program is the only university marching band in the state of Hawai'i, and it is the one of the largest and most diverse student organizations on campus, playing at many events around campus. I aim to be a friendly face and create a safe and supportive educational environment that is conducive to growth for musicians of all skill levels.<br><br>
