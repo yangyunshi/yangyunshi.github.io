@@ -26,4 +26,7 @@ Using data on bacterial genomes and their metabolic pathways, we utilized statis
 
 Through this project, I gained additional experience and skills in: Research, Statistics, Excel, R, Bioinformatics, KEGG ORTHOLOGY DATABASE, NCBI tools, and genomic related technologies like genome assembly and annotation, Unix, communication, scientific literature research and review, scientific presentations, and teammwork. <br>
 
-[Learn more about the Loyola Adventures in Urobiome Data Program](https://ssom.luc.edu/luerec/administrative/laud/)
+[Learn more about the Loyola Adventures in Urobiome Data Program](https://ssom.luc.edu/luerec/administrative/laud/)<br><br>
+
+Special thanks to:<br>
+My LAUD Program mentors and my fellow research partner, Elise
