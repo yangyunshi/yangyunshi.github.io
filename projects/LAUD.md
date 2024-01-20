@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/laud/kidney_stones.png
+image: img/laud/kidneystones_resized.png
 
 title: "Loyola Bioinformatics Research"
 date: 2023
@@ -24,6 +24,6 @@ Previous research has shown that some bacteria are associated with kidney stones
 
 Using data on bacterial genomes and their metabolic pathways, we utilized statistical methods and R to compare the data for stone-associated bacteria (collected from kidney stones) and non-stone associated bacteria (collected elsewhere in the urinary system).
 
-Through this project, I gained additional experience and skills in: Research, Statistics, Excel, R, Bioinformatics, KEGG ORTHOLOGY DATABASE, NCBI tools, and genomic related technologies like genome assembly and annotation.<br>
+Through this project, I gained additional experience and skills in: Research, Statistics, Excel, R, Bioinformatics, KEGG ORTHOLOGY DATABASE, NCBI tools, and genomic related technologies like genome assembly and annotation, Unix, communication, scientific literature research and review, scientific presentations, and teammwork. <br>
 
 [Learn more about the Loyola Adventures in Urobiome Data Program](https://ssom.luc.edu/luerec/administrative/laud/)
