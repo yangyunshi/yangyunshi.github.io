@@ -11,7 +11,7 @@ labels:
   - Bassoon
   - International Experience
   - Music
-summary: "I have played trombone and bassoon in multiple ensembles for over a decade. I am currently a member of the University of Hawaii Marching Band and Pep Band."
+summary: "I have played trombone and bassoon for over a decade. I am currently a member of the University of Hawaii Marching Band and Pep Band."
 ---
 
 <img class="img-fluid" src="../img/band/trombone_resized.jpeg">
