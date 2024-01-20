@@ -11,7 +11,6 @@ labels:
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/tech_impact/tech_impact.jpg">
-## Changing the World: Bit By Bit<br><br>
 
 I have always loved understanding how and why things work. At a young age, I felt mesmerized sitting in front of the TV to watch *How It’s Made*, the machines whirring faster than the eye can see, completing their jobs with precision. Whether it is a computer program or a physical machine, there is something incredibly captivating about the engineering involved to design something. It feels so satisfying and therapeutic to mentally break something down and methodically rebuild it. Being able to be more creative and innovative scratched a certain itch for me that I sometimes struggled to get when I worked in healthcare.<br><br>
 
