@@ -73,23 +73,34 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "UH Band Program",
       "website": "",
       "position": "",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "I played trombone in the University of Hawaii Marching Band and Pep Band.",
       "highlights": [
         ""
       ]
     },
     {
-      "organization": "",
+      "organization": "Programing and Algorithms Club (PandA)",
       "website": "",
       "position": "",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "PandA is a club focused on preparing students for technical interviews with challenging Leet-Code-type problems.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "organization": "Various Volunteer Activities with my Ko'a Kollective 'Ohana",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "We volunteer at various community organizations. So far in 2024, we've volunteered at: Ho'okua'aina and Surfrider Gardens.",
       "highlights": [
         ""
       ]
