@@ -6,7 +6,7 @@
     "email": "aebsen@hawaii.edu",
     "phone": "",
     "website": "https://yangyunshi.github.io",
-    "summary": "Current Undergraduate Student Pursuing a BS Degree in Computer Science | Expected to Graduate Spring 2026 | Aspiring to Use Tech for Positive Impact",
+    "summary": "Current Undergraduate Student Pursuing a BS Degree in Computer Science | Expected to Graduate Spring 2026 | Using Tech for Positive Impact",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "yangyunshi", "url": "https://github.com/yangyunshi" },
@@ -22,6 +22,7 @@
     { "name": "One Health" },
     { "name": "Social Impact" },
     { "name": "Sustainability" },
+    { "name": "Forensics" },
     { "name": "Ethnobotany" }
   ],
   "skills": [
