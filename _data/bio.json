@@ -11,8 +11,6 @@
     "profiles": [
       { "network": "github", "username": "yangyunshi", "url": "https://github.com/yangyunshi" },
       { "network": "linkedin", "username": "Allison Ebsen", "url": "https://www.linkedin.com/in/allison-ebsen/" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
