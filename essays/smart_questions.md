@@ -13,8 +13,6 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/SO_Questions/confused_computer.jpg">
 
-## The Importance of Smart Questions in Engineering<br>
-
 Eric Raymond's essay titled, ["How To Ask Questions The Smart Way,"](http://www.catb.org/esr/faqs/smart-questions.html) provides a clear overview of how to be a mindful and effective communicator when posting questions in forums such as Stack Overflow. Navigating online etiquette skillfully may feel difficult or complicated, but I believe that this essay makes it fairly more comprehensible due to the way it is organized and reasoned. While this essay is written with computer science related content in mind, I believe that being able to think about and ask a good question is an essential life skill. Nobody is expected to know all of the answers, but being able to be resourceful, critically think, and ask an effective question may be essential to getting closer to an answer. <br><br>
 
 Many times, software engineering is completed with a diverse team of individuals, and clear communication may make the task easier for everyone involved. Not only does asking questions promote effective collaboration and clarity in the workplace, but it may also lead to more effective problem solving and less risk of errors. Additionally, asking a thoughtful questions provides a great learning and teaching opportunity, ultimately leading to more experienced and knowledgeable engineers.<br><br>
