@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "New Year, New Language"
 date: 2024-01-17
-published: true
+published: false
 labels:
   - Javascript
   - Learning
