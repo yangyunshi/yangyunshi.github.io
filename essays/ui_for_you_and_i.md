@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "UI Made Easier for You and I"
-# All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
 labels:
