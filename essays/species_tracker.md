@@ -30,8 +30,8 @@ Solution: The invasive species tracker aims to address these challenges by estab
 
 ## Pages:<br>
 <ul>
-<li>Landing: Welcome users and provide an overview of the project and its goals</ul>
-<li>Login</ul>
+<li>Landing: Welcome users and provide an overview of the project and its goals</li>
+<li>Login</li>
 <li>Picture/Entries Upload (example: Photo, Date, Species, Location and Island): Users can upload and create data entries</li>
 <li>Edit Entries (example: modify information, indicate whether the organism has been removed)</li>
 <li>Database of Known Invasive Species: An organized database of invasive species, including information such as identification tips, distribution maps, ecological impacts</li>
