@@ -21,7 +21,7 @@ Solution: The invasive species tracker aims to address these challenges by estab
 <li>General Public</li>
 </ul>
 
-### Example Users:<br>
+#### Example Users:<br>
 <ul>
 <li>A visiting tourist goes on a hike and finds an unfamiliar plant while on a trail, using the app to identify and report a potential invasive species sighting.</li>
 <li>Educators and students can use the app to actively engage with and learn more about the local ecology and caring for our ecosystem, engaging students in real-world science and environmental stewardship in their own backyards.</li>
