@@ -12,7 +12,7 @@ labels:
 ## Invasive Species Tracker<br>
 ##### Author: Allison Ebsen<br>
 Problem: Invasive species pose a significant threat to local ecosystems, causing ecological imbalances or even extinction. However, monitoring and tracking these invasive species across the Hawaiian islands can be a daunting and resource-expensive task, making research difficult to complete. <br><br>
-Solution: The invasive species tracker aims to address these challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species, raising awareness and empowering the community and professionals to be able to better track the harmful species and care for the ecosystem.<br><br>
+Solution: The invasive species tracker aims to address these challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species, raising awareness and empowering the community and professionals to be able to better track the harmful species and care for the ecosystem.<br>
 
 
 ## Users:<br>
@@ -28,7 +28,7 @@ Solution: The invasive species tracker aims to address these challenges by estab
 <li>Educators and students can use the app to actively engage with and learn more about the local ecology and caring for our ecosystem, engaging students in real-world science and environmental stewardship in their own backyards.</li>
 <li>A local conservation organization can utilize app data to coordinate and organize community events to remove invasive species and track progress.</li>
 <li>Researchers studying invasive species trends can analyze data collected from the platform to identify potential problems and prioritize management efforts and investment.</li>
-</ul><br><br>
+</ul><br>
 
 ## Pages:<br>
 <ul>
@@ -39,7 +39,7 @@ Solution: The invasive species tracker aims to address these challenges by estab
 <li>Database of Known Invasive Species: An organized database of invasive species, including information such as identification tips, distribution maps, ecological impacts</li>
 <li>Profile/Badges Page: Collect badges or virtual critters for quality contributions</li>
 <li>Educational Resources: Carefully curated content such as articles, videos, or infographics to help educate users about invasive species</li>
-</ul><br><br>
+</ul><br>
 
 ## Beyond Basics (Possibly Ambitious):
 <ul>
