@@ -10,6 +10,7 @@ labels:
 ---
 
 ## Invasive Species Tracker<br>
+Author: Allison Ebsen<br>
 Problem: Invasive species pose a significant threat to local ecosystems, causing ecological imbalances or even extinction. However, monitoring and tracking these invasive species across the Hawaiian islands can be a daunting and resource-expensive task, making research difficult to complete. <br><br>
 Solution: The invasive species tracker aims to address these challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species, raising awareness and empowering the community and professionals to be able to better track the harmful species and care for the ecosystem.<br><br>
 
