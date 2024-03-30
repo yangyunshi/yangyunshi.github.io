@@ -37,13 +37,13 @@ Solution: The invasive species tracker aims to address these challenges by estab
 <li>Picture/Entries Upload (example: Photo, Date, Species, Location and Island): Users can upload and create data entries</li>
 <li>Edit Entries (example: modify information, indicate whether the organism has been removed)</li>
 <li>Database of Known Invasive Species: An organized database of invasive species, including information such as identification tips, distribution maps, ecological impacts</li>
-<li>Profile/Badges Page: Collect badges or virtual critters for quality contributions</li>
+<li>Profile/Badges Page: Collect badges or virtual critters for quality contributions, see stats to check your positive impact</li>
 <li>Educational Resources: Carefully curated content such as articles, videos, or infographics to help educate users about invasive species</li>
 </ul><br>
 
 ## Beyond Basics (Possibly Ambitious):
 <ul>
-<li>Make data entries exportable as an Excel Spreadsheet so that researchers can easily work with the data</li>
+<li>Make data entries exportable as an Excel Spreadsheet (cvs) so that researchers can easily work with the data</li>
 <li>Further gamify it</li>
 <li>Explore the use of machine learning algorithms to improve species identification accuracy and efficiency AND/OR assess the effectiveness of implemented strategies or suggest other plans of action</li>
 <li>Integrate with GIS or other map visualization</li>
