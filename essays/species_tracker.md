@@ -43,7 +43,7 @@ Solution: The invasive species tracker aims to address these challenges by estab
 
 ## Beyond Basics (Possibly Ambitious):
 <ul>
-<li>Make data entries exportable as an Excel Spreadsheet (cvs) so that researchers can easily work with the data</li>
+<li>Make data entries exportable as an Excel Spreadsheet (csv) so that researchers can easily work with the data</li>
 <li>Further gamify it</li>
 <li>Explore the use of machine learning algorithms to improve species identification accuracy and efficiency AND/OR assess the effectiveness of implemented strategies or suggest other plans of action</li>
 <li>Integrate with GIS or other map visualization</li>
