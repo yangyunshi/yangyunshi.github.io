@@ -31,6 +31,6 @@ The UH Band Program is the only university marching band in the state of Hawai'i
 Being able to play trombone has been an important transformative experience for me. I have met so many incredible mentors and friends through the fine arts. Not only have I grown in my musicianship, but I have also grown as a person and as a performer. Band builds skills in: focus, collaboration and teamwork, leadership, musicianship, discipline and commitment, adaptability, and general communication and listening. In addition to this, my experiences in band have given me a wider world view and a deeper connection with a diverse population of people who are all connected through the arts. <br><br>
 
 
-Special thanks to my educators and for my parents for giving me these opportunities and for sitting through my beginner "Hot Cross Buns" practice sessions.
+Special thanks to my educators and my parents for giving me these opportunities and for sitting through my beginner "Hot Cross Buns" practice sessions.
 
 
