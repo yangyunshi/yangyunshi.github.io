@@ -56,7 +56,7 @@ I have used AI in class this semester in the following areas:
       I occassionally used it to help comment my code as it's much faster and it automatically adds proper formatting. I would review the comments to check that that they are correct and then add them or edit them so that they suited however I preferred to organize things in my project.
 
   22. Quality assurance<br>
-      Quite frankly, I wasn't super impressed with its ability to analyze quality assurance. I think that it often didn't take many situations into account, and I often found that I was inquiring about whether certain parts of its code were good practice (my intuition was correct that they often weren't) or about checking for certain cases.
+      Sometimes AI would suggest that I try certain things that I would not have thought of due to lack of experience, but quite frankly, I wasn't super impressed with its ability to analyze quality assurance. I think that it often didn't take many situations into account, and I often found that I was inquiring about whether certain parts of its code were good practice (my intuition was correct that they often weren't) or about checking for certain cases.
  
   24. Other uses in ICS 314 not listed above<br>
       I did not use AI for other uses in class because I had no need to.
