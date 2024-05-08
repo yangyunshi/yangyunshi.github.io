@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "AI: Unseen Faculty"
 date: 2024-04-30
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
@@ -14,12 +14,14 @@ labels:
 
 ### I. Introduction
 
+A year ago, if you had asked me what ChatGPT was, I would not have been able to tell you. Over the course of the year, though, I began to figure it out very quickly. Bots like ChatGPT had started appearing everywhere. I was amazed at how quickly it had taken over so many aspects in life. Soon, new bots came out like Copilot. Just this past December, I participated in my very first hackathon. The build4good hackathon was centered around Machine Learning and AI, and part of the hackathon experience was being educated on some of the tools available to use. While my contribution to the project revolved around Python algorithms and the utilization of computer vision, I was amazed when I saw many teams, including my own take the OpenAI api and build tools of their own. Not only did I see it become increasingly discussed in the media and the classroom, but I got to witness its capabilities outside of the classroom. While many news articles seem to love framing AI as our doom, I believe that it is irresponsible to focus solely on the bad or in such black and white terms as this fails to create nuanced thinking and healthy discussion surrounding the topic of AI. While it may help some students cheat, AI is also capable of being an additional resource or support system in academia for students who may need extra help.
+
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18<br>
-      I didn't really need to utilize AI for the Experience WODs as I found the screencasts explaining steps to be much more useful personally. I liked being able to walk through problems and see problem solving strategies in action. 
+      I didn't really need to utilize AI for the Experience WODs as I found the screencasts explaining steps to be much more useful personally. I liked being able to walk through problems and see problem solving strategies in action. Being able to learn problem solving strategies and understand the whys and hows are both very critical to my learning process and comprehension.
      
   3. In-class Practice WODs<br>
       Sometimes if I got stuck on a bug while working with the new material, it helped to have AI available to consult and ask where I was going wrong or misunderstanding something.
@@ -28,10 +30,10 @@ I have used AI in class this semester in the following areas:
      I didn't need to use AI for the WODs. Instead, I attended many practice session WODS and reviewed answers to prepare. I found it more beneficial to understand each element used in the practice WODs and homeworks and then translate it to the new WOD.
 
   6. Essays<br>
-     I don't really like utilizing AI for essays. I feel that AI fails to capture my true voice and feelings accurately.
+     I don't really like utilizing AI for essays so I didn't utilize it. I feel that AI fails to capture my true voice and feelings accurately. I believe that the best art (such as writing) is best conveyed by humans as art is moving in the way that it reflects the human experience. 
 
   8. Final project<br>
-     I occassionally utilized AI to assist with understanding new material for the final project. I had never worked with backend development for a React app before this project so I had a lot of questions. AI would sometimes help me asnwer the questions I had or point me to problems that may need addressing.
+     I occassionally utilized AI to assist with understanding new material for the final project. I had never worked with backend development for a React app before this project so I had a lot of questions. AI would sometimes help me asnwer the questions I had or point me to problems that may need addressing. I mostly relied on documentation and search engine resources, though.
 
   10. Learning a concept / tutorial<br>
       I tend to learn a lot by being able to ask the right questions so AI can sometimes prove useful when I am confused. Occasionally it spits out something that makes zero sense or fake information, but many times it can at least point me in the right direction or prompt my brain in a way that gets me to a correct answer or at least closer to an answer.
@@ -49,7 +51,7 @@ I have used AI in class this semester in the following areas:
       Similarly to the previous categories, I found that it was often able to help me understand code fairly well. It was helpful to get a line-by-line analysis when I felt confused, and I could later apply those lessons to future code I encountered.
       
   20. Writing code<br>
-      I feel that a lot of the code I wrote in this class was made up of tools that we used or learned so I didn't really need to rely on AI to write out code much. Sometimes if I wondered if something could be more efficient, I would inquire about it. But I didn't always use the code that AI provided as it often had errors that I had to bugfix or other issues (for example, suspected security issues). It could usually provide a decent baseline or starting point, but I probably wouldn't rely heavily on it to solve more complex issues.
+      I feel that a lot of the code I wrote in this class was made up of tools that we used or learned so I didn't really need to rely on AI to write out code much. Sometimes if I wondered if something could be more efficient, I would inquire about it. But I didn't always use the code that AI provided as it often had errors that I had to bugfix or other issues (for example, suspected security issues). It could usually provide a decent baseline or starting point, but I wouldn't rely heavily on it to solve more complex issues.
 
   21. Documenting code<br>
       I occassionally used it to help comment my code as it's much faster and it automatically adds proper formatting. I would review the comments to check that that they are correct and then add them or edit them so that they suited however I preferred to organize things in my project.
@@ -62,6 +64,7 @@ I have used AI in class this semester in the following areas:
 
 ### III. Impact on Learning and Understanding:
 
+Personally, I would say that AI has helped my overall learning and understanding as it has been like an additional support system at times. As a student with a disability, academia has often been a space where I felt frustrated or misunderstood. Certain subjects, such as math, were taught in ways that I struggled to work with such as simply giving equations but not understanding where anything was coming from. When I would ask questions, sometimes they were met with snarky responses or my curiosity would be discouraged because it took up class time which I understand. With AI, I feel more academically supported because it is another tool that I can utilize to get more help that I may need in order to understand the subject, and once I understand it, I become more knowledgeable and competent overall. I can apply that knowledge differently because I understand it on a deeper level. I can ask as many "why" questions and the AI will never tell me to knock it off. I'm the type of person that sometimes doesn't identify a question I may have until I encounter a situation that may prompt the question, and AI's convenience can really help me get the answer I need so that I can continue my lesson. While I tend to prefer getting my own answers and reasoning through things on my own, I can also acknowledge when I am stuck. At certain points, making some progress or getting a nudge in the right direction simply becomes a smarter use of time. This is incredibly important as I work a job and also have other classes which require a lot of time. This being said, I also want to note that I do not overrely on it. I use it to help build up my understanding. I often understand enough to recognize when something it spits out does not make any sense, and if I do need to use it, I prefer an AI assistant such as Bing's Copilot which also can provides links to the resources that it gets the information from so that I can judge the credibility myself and look at additional resources if needed.
 
 ### IV. Practical Applications:
 
