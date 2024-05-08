@@ -26,11 +26,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript", "R", "HTML/CSS", "Python" ]
+      "keywords": [ "C", "Java", "Javascript", "R", "HTML/CSS", "Python", "Meteor", "Bootstrap", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "gcc/g++", "Unix", "Excel" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "gcc/g++", "Unix", "Excel", "MongoDB" ]
     }
   ],
   "education": [
@@ -46,6 +46,17 @@
   ],
   "work": [
     {
+      "company": "Broad Institute of Harvard and MIT",
+      "position": "BSRP Summer Student",
+      "website": "https://www.broadinstitute.org/",
+      "startDate": "2024-06-02",
+      "endDate": "Present",
+      "summary": "Working in the Beroukhim Lab associated with the Broad Institute and the Dana-Farber Cancer Institute under Postdoctoral Associate Simona Dalin",
+      "highlights": [
+        "The lab focuses on developing computational approaches To interpret cancer genomes and comprehensive genomic characterization of brain cancers."
+      ]
+    },
+    {
       "company": "UH Manoa Plant Science Lab",
       "position": "Lab Assistant",
       "website": "",
@@ -53,7 +64,7 @@
       "endDate": "Present",
       "summary": "Assists with daily operations and provides computer science consulting",
       "highlights": [
-        "Completes a variety of tasks required including: genomic work, plant tissue culture, caring for the greenhouses, R programming, and assistance with software"
+        "Completes a variety of tasks required including: genomic work, plant tissue culture, caring for the greenhouses, R programming, and assistance with software. Currently working with convolutional neural networks and computer vision, building a model to identify coconut rhinoceros beetle in traps."
       ]
     },
     {
