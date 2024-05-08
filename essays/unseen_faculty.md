@@ -16,7 +16,6 @@ labels:
 
 A year ago, if you had asked me what ChatGPT was, I would not have been able to tell you. Over the course of the year, though, I began to figure it out very quickly. AI tools like ChatGPT had started appearing everywhere. I was amazed at how quickly it had taken over so many aspects in life. Soon, new bots came out like Copilot, and I personally witnessed other uses of OpenAI in development. Just this past December, I participated in my very first hackathon. The Build4Good hackathon was centered around Machine Learning and AI, and part of the hackathon experience was being educated on some of the tools available to use. While my contribution to the project revolved around Python algorithms and the utilization of computer vision, I was amazed when I saw many teams, including my own take the OpenAI API and build tools of their own. Not only did I see AI become increasingly discussed in the media and the classroom, but I got to witness its capabilities outside of the classroom. While many news articles seem to love framing AI as our doom, I believe that it is irresponsible to focus solely on the bad of a tool or frame it in such black and white terms as this fails to create nuanced thinking and healthy discussion surrounding the topic of AI. While it may help some students cheat, AI is also capable of being an additional resource or support system in academia for students who may need extra help.
 
-
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
