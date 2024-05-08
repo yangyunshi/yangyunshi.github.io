@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI: Unseen Faculty"
+title: "AI: Academic Accessibility"
 date: 2024-04-30
 published: true
 labels:
