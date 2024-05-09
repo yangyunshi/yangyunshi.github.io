@@ -14,7 +14,7 @@ summary: "‘Imi Invasive aims to address invasive species management challenges
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="..img/imi-invasive/imi-invasive-logo.png" class="img-thumbnail" >
+  <img width="200px" src="../img/imi-invasive/imi-invasive-logo.png" class="img-thumbnail" >
   <img width="500px" src="../img/imi-invasive/imi-invasive-home.png" class="img-thumbnail" >
 </div>
 
