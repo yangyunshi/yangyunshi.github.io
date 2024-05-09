@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/koa_finder/coral_resized.jpg
 title: "Ko'a Finder"
-date: 2023
+date: "2023"
 published: true
 labels:
   - Python
