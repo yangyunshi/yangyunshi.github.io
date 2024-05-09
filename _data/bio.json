@@ -30,7 +30,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "gcc/g++", "Unix", "Excel", "MongoDB" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "gcc/g++", "Unix", "Excel", "MongoDB", "KerasCV" ]
     }
   ],
   "education": [
