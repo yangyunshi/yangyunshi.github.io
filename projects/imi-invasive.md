@@ -20,7 +20,7 @@ summary: "‘Imi Invasive aims to address invasive species management challenges
 ## Project Overview
 Invasive species pose a significant threat to local ecosystems, causing ecological imbalances or even extinction. This is particularly dangerous in ecosystems such as Hawaii where many endemic species are at risk. However, monitoring and tracking these invasive species across the Hawaiian islands can be a daunting and resource-expensive task, making research difficult to complete.<br><br>
 
-‘Imi Invasive aims to address invasive species management challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species, raising awareness and empowering the community and professionals to be able to better track the harmful species and care for the ecosystem. It aims to serve as an educational resource and also a centralized app for people to report and help manage invasive species across the Hawaiian Islands.
+‘Imi Invasive aims to address invasive species management challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species, raising awareness and empowering the community and professionals to be able to better track the harmful species and care for the ecosystem. It aims to serve as an educational resource and also a centralized app for people to report and help manage invasive species across the Hawaiian Islands.<br><br>
 
 
 ## Personal Contributions and Examples
