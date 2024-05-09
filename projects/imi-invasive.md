@@ -7,11 +7,9 @@ date: 2024
 published: true
 labels:
   - Software Engineering
-  - Meteor
-  - React
-  - Javascript
-  - MongoDB
-  - Ecosystem Prservation
+  - Database
+  - UI Frameworks
+  - Ecosystem Preservation
 summary: "‘Imi Invasive aims to address invasive species management challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species, raising awareness and empowering the community and professionals to be able to better track the harmful species and care for the ecosystem."
 ---
 
