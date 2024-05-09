@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: "'Imi 'Ike"
-date: 2024-04-30
+title: "Compiling Lessons and Success"
+date: 2024-05-8
 published: true
 labels:
   - Software Engineering
