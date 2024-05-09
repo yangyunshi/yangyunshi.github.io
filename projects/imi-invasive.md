@@ -34,8 +34,8 @@ The About Us Page<br>
   <a href="https://github.com/islandinvaders/imi-invasive/blob/main/app/imports/ui/pages/AddPost.jsx"><img width="500px" src="../img/imi-invasive/imi-invasive-report-form.png" class="img-thumbnail" ></a><br><br>
 
   The Download CSV Button and Example Output<br>
- <a href="https://github.com/islandinvaders/imi-invasive/blob/main/app/imports/ui/components/DownloadButton.jsx"><img width="500px" src="../img/imi-invasive/imi-invasive-download.png" class="img-thumbnail" ></a><br>
-  <img width="500px" src="../img/imi-invasive/imi-invasive-example-csv.png" class="img-thumbnail" ><br>
+ <a href="https://github.com/islandinvaders/imi-invasive/blob/main/app/imports/ui/components/DownloadButton.jsx"><img width="500px" src="../img/imi-invasive/imi-invasive-download.png" class="img-thumbnail" ><br>
+  <img width="2000px" src="../img/imi-invasive/imi-invasive-example-csv.png" class="img-thumbnail" ></a><br>
 
 ## Takeaways
 Through this awesome experience, I learned a lot about open source software development with a team, communication, website deployment, database management, good software engineering practices, user interface frameworks, S3, OpenAI, and agile project management.<br><br>
