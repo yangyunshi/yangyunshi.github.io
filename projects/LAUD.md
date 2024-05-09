@@ -24,7 +24,7 @@ In this program, I worked closely with [Dr. Qunfeng Dong](https://ssom.luc.edu/i
 
 Previous research has shown that some bacteria are associated with kidney stones, and our team's goal was to test the hypothesis that those bacteria may contribute to the formation of kidney stones, and if they do contribute to the formation of kidney stones, how do they do it?
 
-Using data on bacterial genomes and their metabolic pathways, we utilized statistical methods and R to compare the data for stone-associated bacteria (collected from kidney stones) and non-stone associated bacteria (collected elsewhere in the urinary system). I mainly contributed to code creation, code optimization, code troubleshooting, stats work, Excel data maangement, and general research. Additionally, I assisted with all presentations and literature reviews. 
+Using data on bacterial genomes and their metabolic pathways, we utilized statistical methods and R to compare the data for stone-associated bacteria (collected from kidney stones) and non-stone associated bacteria (collected elsewhere in the urinary system). I mainly contributed to code creation, code optimization, code troubleshooting, stats work, Excel data management, and general research. Additionally, I assisted with all presentations and literature reviews. 
 
 Through this project, I gained additional experience and skills in: Research, Statistics, Excel, R, Bioinformatics, KEGG ORTHOLOGY DATABASE, NCBI tools, and genomic related technologies like genome assembly and annotation, Unix, communication, scientific literature research and review, scientific presentations, and teamwork. <br>
 
