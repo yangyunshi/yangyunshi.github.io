@@ -25,7 +25,7 @@ Invasive species pose a significant threat to local ecosystems, causing ecologic
 
 
 ## Personal Contributions and Examples
-For this project, I was the original creator of the project pitch. I mainly worked on the constructing the databases, managing database data, the "about us" page, the functional report-data-to-csv button, bugfixing and maintenance (tidying up), and app deployment to Digital Ocean. In addition to this, I explored building a backend for image upload using Amazon S3 and also integrating OpenAI Vision to help assist with imvasive species recognition, but those parts unfortunately did not make it to the final project. Here are a few examples of my work that did make it to the final project. Click on the relevant images to see the source code!<br><br>
+For this project, I was the original creator of the project pitch. I mainly worked on the constructing the databases, managing database data, the "about us" page, the functional report-data-to-csv button, bugfixing and maintenance (tidying up), and app deployment to Digital Ocean. In addition to this, I explored building a backend for image upload using Amazon S3 and also integrating OpenAI Vision to help assist with invasive species recognition, but those parts unfortunately did not make it to the final project. Here are a few examples of my work that did make it to the final project. Click on the relevant images to see the source code!<br><br>
 
 The About Us Page<br>
   <a href="https://github.com/islandinvaders/imi-invasive/blob/main/app/imports/ui/pages/AboutUs.jsx"><img width="500px" src="../img/imi-invasive/imi-invasive-about.png" class="img-thumbnail" ></a><br><br>
